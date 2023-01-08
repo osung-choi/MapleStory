@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapleStory</string>
+    <string name="default_api_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJYLUFwcC1SYXRlLUxpbWl0IjoiNTAwOjEwIiwiYWNjb3VudF9pZCI6IjUwMzYwOTU1OCIsImF1dGhfaWQiOiIyIiwiZXhwIjoxNjg4NzE1NDY4LCJpYXQiOjE2NzMxNjM0NjgsIm5iZiI6MTY3MzE2MzQ2OCwic2VydmljZV9pZCI6IjQzMDAxMTM5NyIsInRva2VuX3R5cGUiOiJBY2Nlc3NUb2tlbiJ9._DPl5N3kpinpOTiwhUNUNNQjTNo0HMRAe0Un0u5t-fg</string>
+    <string name="input_api_key">발급받은 API Key를 입력 해주세요</string>
+</resources>
