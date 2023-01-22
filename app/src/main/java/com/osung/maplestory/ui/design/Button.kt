@@ -19,11 +19,7 @@ fun SmallButton(
     onClick: () -> Unit
 ) {
     Button(
-        modifier = modifier
-            .padding(
-                horizontal = 12.dp,
-                vertical = 8.dp
-            ),
+        modifier = modifier,
         onClick = onClick
     ) {
         Text(text = text, fontSize = 12.sp)
